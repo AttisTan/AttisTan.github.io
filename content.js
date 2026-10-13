@@ -14,9 +14,9 @@
 // =====================================================================
 
 window.SITE = {
-  name: "Your Name",
+  name: "Sitta Tantikul",
   tagline: "Undergraduate, Massachusetts Institute of Technology",
-  email: "[you] [at] mit [dot] edu", // written out so bots can't easily harvest it
+  email: "sittatan [at] mit [dot] edu", // written out so bots can't easily harvest it
   photo: "",                         // e.g. "images/photo.jpg"; "" for no photo
 
   links: [
@@ -26,8 +26,8 @@ window.SITE = {
   ],
 
   bio: [
-    "I am an undergraduate at MIT studying [Mathematics and Economics]. My research asks how decision systems should be designed when the evidence they rely on is <em>limited</em>, <em>noisy</em>, and <em>shaped by the decision rule itself</em>, drawing on operations research, economic theory, and algorithms.",
-    "I currently work with Professor Glenn Ellison on the design of interviews. I am applying to Ph.D. programs in Operations Research for Fall 2027.",
+    "I am an undergraduate at MIT studying Mathematics (Course 18) + Computer Science, Economics & Data Science (Course 6-14). My research asks how decision systems should be designed when the evidence they rely on is <em>limited</em>, <em>noisy</em>, and <em>shaped by the decision rule itself</em>, drawing on operations research, economic theory, and algorithms.",
+    "I currently work with Professor Glenn Ellison on interview mechanism design. I am applying to Ph.D. programs in Statistics and Operations Research for Fall 2027.",
   ],
 
   // Papers, grouped under headings. Add, remove or reorder groups freely.
